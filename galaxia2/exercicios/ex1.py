@@ -1,0 +1,2 @@
+stock = 'FLEURY'
+print(stock)
